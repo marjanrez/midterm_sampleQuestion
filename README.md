@@ -1,1 +1,1 @@
-# answers_sampleQuestion
+sample Questions for intro to Data Science
